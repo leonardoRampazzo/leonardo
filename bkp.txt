@@ -106,6 +106,57 @@
 
       <div class="line-break"></div>
 
+      <div class="card--work-history">
+        <strong>🚧 SENIOR DEVELOPER | FOI LABS</strong>
+        <p>10/2017 - 10/2019</p>
+        <p>Designed and developed a laboratory management system. My system
+          provided an interface for lab technicians and customers to view and
+          track data from samples tested in the lab.</p>
+        <ul>
+          <li>Designed prototype & pitched original idea for new lab management system (LIMS)</li>
+          <li>Built entire code base and brought version 1 of LIMS system to market as a solo developer</li>
+          <li>Onboarded and trained customers (Webinars & Conferences)</li>
+          <li>Managed a small team of developers in expansion of LIMS system</li>
+        </ul>
+      </div>
+
+      <div class="line-break"></div>
+
+      <div class="card--work-history">
+        <strong>🚧 DIGITAL MARKETER | UNIFIVE DIGITAL</strong>
+        <p>2014 - 2017</p>
+        <p>Started a digital agency building websites and marketing for
+          local businesses. Mostly Wordpress sites with small modifications to
+          themes.</p>
+        <ul>
+          <li>Organized SEO & SEM campaigns on a local and global scale.</li>
+          <li>Saved a customer $110k a year by reducing Adwords CPC cost with optimization</li>
+          <li>70 + websites built with my small team of developers and freelancers</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section--page">
+      <h2>Projects & Accomplishments</h2>
+
+      <div class="card--project">
+        <a href="project1.html"><span>🏆 </span>Built a Laboratory management system for forensics lab</a>
+      </div>
+
+      <div class="card--project">
+        <a href="project1.html"><span>🏆 </span>Documentation website - Lead team to re-build docs for agora.io</a>
+      </div>
+
+      <div class="card--project">
+        <a href="project1.html"><span>🏆 </span>Ecommerce platform using paypal and stripe API for payment
+          integration</a>
+      </div>
+
+      <div class="card--project">
+        <a href="project1.html"><span>🏆 </span>Social Network - open source project</a>
+      </div>
+
+    </section>
 
 
   </div>
